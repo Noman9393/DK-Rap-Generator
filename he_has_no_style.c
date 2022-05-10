@@ -9,8 +9,8 @@ typedef int bool;
 #define true 1
 #define false 0
 
-char* dkArray[] = {"so", "theyre", "finally", "here", "performing", "for", "you",
-"if", "you", "know", "the", "words", "you", "can", "join", "in", "too",
+char* dkArray[] = {"so", "theyre", "finally", "dead", "and", "killing", "you",
+"if", "you", "know", "the", "words", "you", "can", "kill", "your", "self",
 "put", "your", "hands", "together", "if", "you", "want", "to", "clap",
 "as", "we", "take", "you", "through", "this", "monkey", "rap",
 
